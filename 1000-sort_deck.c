@@ -136,3 +136,4 @@ void sort_value(deck_node_t **deck)
 		}
 	}
 }
+
